@@ -11,11 +11,11 @@ Login to find the challenge script for your group.
 
 Link to the GEE scripts: 
 
-Group 1: https://code.earthengine.google.com/ac3ddea0c65a560931f17bd9bb178136
-Group 2: https://code.earthengine.google.com/d34419a235b1e84f802c7007210ba170
-Group 3: https://code.earthengine.google.com/85d27e7b0a4c3d381ea14d45ac098cba
-Group 4: https://code.earthengine.google.com/3f911d57652eb8ae74af9fb5f4a4c34d
-Group 5: https://code.earthengine.google.com/8e3b174404344696b6a5c1d1c2625a22
+- Group 1: https://code.earthengine.google.com/ac3ddea0c65a560931f17bd9bb178136
+- Group 2: https://code.earthengine.google.com/d34419a235b1e84f802c7007210ba170
+- Group 3: https://code.earthengine.google.com/85d27e7b0a4c3d381ea14d45ac098cba
+- Group 4: https://code.earthengine.google.com/3f911d57652eb8ae74af9fb5f4a4c34d
+- Group 5: https://code.earthengine.google.com/8e3b174404344696b6a5c1d1c2625a22
 
 # Overarching goal
 _*Investigate forest cover change across protected areas.*_
