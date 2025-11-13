@@ -33,16 +33,16 @@ _Use this document as a template to fill in as you progress through the challeng
 
 # Title
 
-_*Add here.*_
+Forest cover changes in Lena Pillars Nature Park
 
 
 # Authors
 
-_*Add here.*_
+Neve Woodman, Emily Kemp, Madalyne Koehler, Annabel Alderson 
 
 
 # Research question
-__How much forest cover loss and gain has occurred in your protected area?__
+How has forest cover changed through time in Lena Pillars Nature Park?
 
 
 # Introduction
@@ -56,9 +56,7 @@ _*Write out or draw your workflow in text here, on paper or in a ppt slide and t
 
 
 # Specific hypotheses and predictions
-
-_*What do you know about this protected area?  What sort of factors could influence forest cover change in this part of the world?*_
-
+We predict that the park has increasing forest cover over time as it seems to be managed well. 
 
 # Methods
 
