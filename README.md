@@ -24,17 +24,6 @@ _*Investigate forest cover change across protected areas.*_
 - Report the state of forests in your group's protected area in a Markdown document
 
 
-# Challenge marking criteria
-- Challenge: The creation of a clear workflow with even division of tasks among team members and evidence of effective group work and collaborative coding. The use of JavaScript code in the Earth Engine code editor to conduct the analysis and mapping and R code to produce the data visualisations. - 25%
-
-- Creativity: The development of clear questions and predictions and an informative summary of results. The effective and creative presentation of results, figures, maps, any statistical analyses. - 25%
-
-- Reproducibility: Appropriate code and comments, clear interpretation of findings and professional presentation of your markdown document and repository. - 25%
-
-- Participation: Evidence of group work, leadership, project management, use of GitHub repository to carry out your work as a team. Indivudal contributions of all group members contributing to the final product. - 25%
-
-
-
 _Use this document as a template to fill in as you progress through the challenge._
 
 # Title
