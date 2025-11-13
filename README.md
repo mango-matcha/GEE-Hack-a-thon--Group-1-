@@ -36,7 +36,7 @@ _Use this document as a template to fill in as you progress through the challeng
 _*Add here.*_
 
 
-# Author
+# Authors
 
 _*Add here.*_
 
